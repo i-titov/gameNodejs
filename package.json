@@ -1,0 +1,15 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "jeu de tape taupe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Ivan",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.4"
+  }
+}
